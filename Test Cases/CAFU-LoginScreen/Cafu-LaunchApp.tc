@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cafu launched app successfully.</description>
+   <name>Cafu-LaunchApp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eecbc264-4946-4042-86db-5e24709f5e24</testCaseGuid>
+</TestCaseEntity>

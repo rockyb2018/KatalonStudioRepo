@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User registration for the cafu-customer app</description>
+   <name>Cafu-RegScreen</name>
+   <tag></tag>
+   <comment>The objective is to Register the user in the app.
+To Launch the app successfully
+Time stamp to load the splash screen
+Tapped on Register btn in Login screen
+Time stamp to navigate the screen to Register screen
+The values for Fname,Lname,MobNo,EmailId,Pass are entered
+Entered text for Fname in Register screen
+Clicked on Register Button</comment>
+   <testCaseGuid>82d3e66f-5cbc-41a9-bd45-c21dbe9330e1</testCaseGuid>
+</TestCaseEntity>

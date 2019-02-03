@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launch and Login to the app</description>
+   <name>Cafu-Login</name>
+   <tag></tag>
+   <comment>Given that user is able to login successfully
+To launch the app successfully
+Time stamp delayed to load the splash screen
+This is the value to enter the mobile no to login
+This is with a valid password to login to the app
+Successfully login to the app.</comment>
+   <testCaseGuid>21a3a2bf-3a0b-4b50-b42e-67d521e4af8f</testCaseGuid>
+</TestCaseEntity>
